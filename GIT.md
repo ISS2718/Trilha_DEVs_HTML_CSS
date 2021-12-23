@@ -9,3 +9,5 @@
 `git checkout -b nome_da_branch` - cria uma branch e troca para essa branch
 
 `git checkout nome_da_branch` - se o nome da branch for substituido por master ele volta pra master
+
+# NÃO MUDEI NADINHA
