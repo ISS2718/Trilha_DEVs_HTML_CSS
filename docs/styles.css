@@ -14,6 +14,14 @@ footer {
     text-align: center;
 }
 
+h1 {
+    font-style: bold;
+}
+
+h2 {
+    font-style: normal;
+}
+
 li {
     color: 	#8be9fd;
 }
