@@ -16,10 +16,6 @@ footer {
     text-align: center;
 }
 
-.footer {
-    color: 	#bd93f9;
-}
-
 h1 {
     font-style: bold;
     color: 	#bd93f9;
@@ -55,10 +51,18 @@ a:hover {
 }
 
 .myimage {
+    margin-top: 5%;
+    display: inline-block;
     border: 0.1rem solid #f8f8f2;
     border-radius: 100%;
     width: 9.90625rem; 
     height: 10.625rem;
+}
+
+.imagetext {
+    margin-left: 5%;
+    display: inline-block;
+    color:  #f8f8f2;
 }
 
 .imagelink {
@@ -82,4 +86,8 @@ a:hover {
 .pagelinktext:hover {
     color: #3fbb5e;
     font-style: normal;
+}
+
+.footertext {
+    color: 	#bd93f9;
 }
