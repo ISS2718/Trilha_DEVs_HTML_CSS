@@ -1,9 +1,11 @@
 body {
     padding: 0%;
     margin: 0%;
-    font-family: 'Orbitron', sans-serif;
-    color: 	#bd93f9;
     background-color:  #282a36;
+}
+
+h1, h2, h3, h4, h5, h6, p, label {
+    font-family: 'Orbitron', sans-serif;
 }
 
 main {
@@ -14,16 +16,32 @@ footer {
     text-align: center;
 }
 
+.footer {
+    color: 	#bd93f9;
+}
+
 h1 {
     font-style: bold;
+    color: 	#bd93f9;
 }
 
 h2 {
     font-style: normal;
+    color: 	#bd93f9;
+}
+
+p {
+    font-style: normal;
+    color: 	#6272a4;
 }
 
 li {
     color: 	#8be9fd;
+}
+
+small {
+    font-size: xx-small;
+    color: 	#ff5555;
 }
 
 a {
@@ -36,8 +54,20 @@ a:hover {
     cursor: pointer;
 }
 
+.myimage {
+    border: 0.1rem solid #f8f8f2;
+    border-radius: 100%;
+    width: 9.90625rem; 
+    height: 10.625rem;
+}
+
 .imagelink {
     color: transparent;
+    border-radius: 100%;
+}
+
+.imagelink:hover {
+    opacity: 0.2;
 }
 
 .pagelink {
