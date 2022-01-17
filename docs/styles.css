@@ -134,11 +134,11 @@ a:hover {
     color: 	#bd93f9;
 }
 
-.copyright {
+.copyrightlink {
     color: 	#bd93f9;
 }
 
-.copyright:hover {
+.copyrightlink:hover {
     color: 	#a782db;
     cursor: pointer;
 }
