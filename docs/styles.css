@@ -134,6 +134,15 @@ a:hover {
     color: 	#bd93f9;
 }
 
+.copyright {
+    color: 	#bd93f9;
+}
+
+.copyright:hover {
+    color: 	#a782db;
+    cursor: pointer;
+}
+
 .h2center {
     text-align: center;
 }
