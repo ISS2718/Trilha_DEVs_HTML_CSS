@@ -27,6 +27,7 @@ main {
 
 footer {
     text-align: center;
+    user-select: none;
 }
 
 h1 {
@@ -118,6 +119,7 @@ a:hover {
     text-align: center;
     font-size: 0.95rem;
     padding-top: 5%;
+    user-select: none;
 }
 
 .pagelinktext {
@@ -171,4 +173,12 @@ a:hover {
 .insideul {
     font-size: 1.1rem;
     list-style: square;
+}
+
+::-moz-selection { /* Code for Firefox */
+    background: #44475a;
+}
+  
+::selection {
+    background: #44475a;
 }
