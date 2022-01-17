@@ -1,6 +1,14 @@
-body {
-    padding: 0%;
-    margin: 5%;
+html {
+    padding: 5%;
+    margin: 0%;
+    background-color:  #21222c;
+}
+
+.body {
+    padding: 2.7%;
+    margin: 0%;
+    border: 0.3rem solid #f8f8f2;
+    border-radius: 1rem;
     background-color:  #282a36fa;
 }
 
@@ -87,13 +95,13 @@ a:hover {
 
 .myimagetext {
     font-family: 'Orbitron', sans-serif;
-    font-size: normal;
+    font-size: 0.88rem;
     color: #ffb86c;
 
     display: inline-block;
     position: relative;
-    bottom: 2.9rem;
-    left: 2rem;
+    bottom: 2.2rem;
+    left: 1.5rem;
 }
 
 .imagelink {
