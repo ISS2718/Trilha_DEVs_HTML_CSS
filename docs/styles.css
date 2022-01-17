@@ -150,4 +150,11 @@ a:hover {
 
 .topli {
     color: #f1fa8c;
+    font-size: 1.3rem;
+    list-style: none;
+}
+
+.insideul {
+    font-size: 1.1rem;
+    list-style: square;
 }
