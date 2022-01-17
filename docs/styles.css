@@ -1,7 +1,7 @@
 body {
     padding: 0%;
-    margin: 0%;
-    background-color:  #282a36;
+    margin-top: 5%;
+    background-color:  #282a36fa;
 }
 
 h1, h2, h3, h4, h5, h6, p, label {
@@ -10,6 +10,7 @@ h1, h2, h3, h4, h5, h6, p, label {
 
 main {
     text-align: justify;
+    padding: 5%;
 }
 
 footer {
@@ -19,6 +20,7 @@ footer {
 h1 {
     font-style: bold;
     color: 	#bd93f9;
+    text-align: center;
 }
 
 h2 {
@@ -33,6 +35,10 @@ p {
 
 li {
     color: 	#8be9fd;
+}
+
+ul {
+    list-style: none;
 }
 
 small {
@@ -50,19 +56,43 @@ a:hover {
     cursor: pointer;
 }
 
-.myimage {
-    margin-top: 5%;
+.headercard {
+    text-align: justify;
+
+    background-color:  #282a36;
+
     display: inline-block;
+    padding: 1.3rem 3.2rem;
+    margin-top: 2%;
+    border: 0.1rem solid #f8f8f2;
+    border-radius: 1rem;
+
+    -webkit-box-shadow: 11px 10px 20px 10px rgba(0,0,0,0.95); 
+    box-shadow: 11px 10px 20px 10px rgba(0,0,0,0.95); 
+}
+
+.myimageheader {
+    text-align: center;
+}
+
+.myimage {
+    display: inline-block;
+    margin: 2%;
     border: 0.1rem solid #f8f8f2;
     border-radius: 100%;
     width: 9.90625rem; 
     height: 10.625rem;
 }
 
-.imagetext {
-    margin-left: 5%;
+.myimagetext {
+    font-family: 'Orbitron', sans-serif;
+    font-size: normal;
+    color: #ffb86c;
+    
     display: inline-block;
-    color:  #f8f8f2;
+    position: relative;
+    bottom: 2.9rem;
+    left: 2rem;
 }
 
 .imagelink {
@@ -90,4 +120,12 @@ a:hover {
 
 .footertext {
     color: 	#bd93f9;
+}
+
+.h2center {
+    text-align: center;
+}
+
+.pheader {
+    color: #50fa7b;
 }
