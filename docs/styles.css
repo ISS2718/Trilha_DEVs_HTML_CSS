@@ -114,6 +114,8 @@ a:hover {
 
 .pagelink {
     text-align: center;
+    font-size: 0.95rem;
+    padding-top: 5%;
 }
 
 .pagelinktext {
