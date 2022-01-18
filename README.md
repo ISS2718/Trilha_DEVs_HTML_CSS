@@ -45,9 +45,7 @@ Red          | `#ff5555`   | `255 85 85`   | `0° 100% 67%`   | ![Red Color](htt
 
 ### PÁGINA PRINCIPAL
 
-[![Página Principal-1](https://github.com/ISS2718/Trilha_DEVs_HTML_CSS/blob/master/README_IMAGES/pagina_principal-1.png)](https://iss2718.github.io/Trilha_DEVs_HTML_CSS/index.html)
-
-[![Página Principal-2](https://github.com/ISS2718/Trilha_DEVs_HTML_CSS/blob/master/README_IMAGES/pagina_principal-2.png)](https://iss2718.github.io/Trilha_DEVs_HTML_CSS/index.html)
+[![Página Principal-1](https://github.com/ISS2718/Trilha_DEVs_HTML_CSS/blob/master/README_IMAGES/pagina_principal.png)](https://iss2718.github.io/Trilha_DEVs_HTML_CSS/index.html)
 
 ### PÁGINA SECUNDÁRIA
 
