@@ -87,10 +87,14 @@ a:hover {
 
 .myimage {
     display: inline-block;
+
     border: 0.1rem solid #f8f8f2;
     border-radius: 100%;
+
     width: 9.90625rem; 
     height: 10.625rem;
+
+    user-select: none;
 }
 
 .myimagetext {
@@ -104,6 +108,11 @@ a:hover {
 
     position: relative;
     bottom: 1.9rem;
+}
+
+.easteregg:hover {
+    opacity: 0.9;
+    cursor: pointer;
 }
 
 .imagelink {
