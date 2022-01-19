@@ -175,13 +175,19 @@ a:hover {
 
 .topli {
     color: #f1fa8c;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    font-weight: bold;
     list-style: none;
 }
 
 .insideul {
-    font-size: 1.1rem;
-    list-style: square;
+    font-size: 1.2rem;
+    font-weight: normal;
+    list-style: default;
+}
+
+.projetoslink {
+    text-decoration: underline;
 }
 
 ::-moz-selection { /* Code for Firefox */
