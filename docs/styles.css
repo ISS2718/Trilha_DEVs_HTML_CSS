@@ -183,7 +183,7 @@ a:hover {
 .insideul {
     font-size: 1.2rem;
     font-weight: normal;
-    list-style: none;
+    list-style: default;
 }
 
 .projetoslink {
