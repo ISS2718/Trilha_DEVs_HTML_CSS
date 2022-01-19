@@ -186,6 +186,10 @@ a:hover {
     list-style: none;
 }
 
+.projetoslink {
+    text-decoration: underline;
+}
+
 ::-moz-selection { /* Code for Firefox */
     background: #44475a;
 }
